@@ -18,5 +18,19 @@
       "type": "image/svg+xml",
       "purpose": "any"
     }
+  ],
+  "screenshots": [
+    {
+      "src": "/hero-mobile.png",
+      "type": "image/png",
+      "sizes": "560x620",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "/hero-desktop.png",
+      "type": "image/png",
+      "sizes": "2000x1520",
+      "form_factor": "wide"
+    }
   ]
 }
