@@ -1,0 +1,22 @@
+{
+  "name": "My Next App",
+  "short_name": "NextApp",
+  "description": "My Progressive Web App built with Next",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/ico"
+    },
+    {
+      "src": "/astro.svg",
+      "sizes": "150x150",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
